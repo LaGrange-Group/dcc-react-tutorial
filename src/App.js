@@ -16,7 +16,7 @@ function App() {
   }
 
   return (
-    <div className='container-fluid'>
+    <div className='container'>
       <div className='row'>
         <h3 style={{margin: '1em'}}>Weight
         <small className='text-muted'>Tracker</small></h3>
